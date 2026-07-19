@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/rohan-portfolio/static/css/main.92a2b974.css",
+    "main.js": "/rohan-portfolio/static/js/main.0c97e7bc.js",
+    "static/js/453.32f539da.chunk.js": "/rohan-portfolio/static/js/453.32f539da.chunk.js",
+    "static/media/bg-light.png": "/rohan-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/rohan-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/microservices.svg": "/rohan-portfolio/static/media/microservices.db2b3b14858b36e55e0a1186c430b68a.svg",
+    "static/media/eks-selfheal.svg": "/rohan-portfolio/static/media/eks-selfheal.bfe3ab4a8e9a99a5e074a737459c13cc.svg",
+    "static/media/cloud-frequencies.svg": "/rohan-portfolio/static/media/cloud-frequencies.207ba0945577ff4e6dc0027bc15e18e8.svg",
+    "static/media/avatar.jpg": "/rohan-portfolio/static/media/avatar.621399df76a59e477288.jpg",
+    "static/media/aws-selfheal.svg": "/rohan-portfolio/static/media/aws-selfheal.254fcb9633c483cba6a459493ccb0a56.svg",
+    "static/media/k8s-selfheal.svg": "/rohan-portfolio/static/media/k8s-selfheal.54f168778b30398720db05aecd62c9bd.svg",
+    "static/media/ai-triage.svg": "/rohan-portfolio/static/media/ai-triage.ef92100302c94d023029c55fc249157b.svg",
+    "static/media/claude-bedrock.svg": "/rohan-portfolio/static/media/claude-bedrock.18108995f3a1237cbddf81dc17fe177b.svg",
+    "static/media/fastapi-jenkins.svg": "/rohan-portfolio/static/media/fastapi-jenkins.f206f7960662ce44ee217c7ec67f07c8.svg",
+    "static/media/django-cicd.svg": "/rohan-portfolio/static/media/django-cicd.396c9962ce97f890e4c723d94f9db749.svg",
+    "static/media/redshift-tf.svg": "/rohan-portfolio/static/media/redshift-tf.931de5605f6e1a798dd3274da9313941.svg",
+    "static/media/eks-manual.svg": "/rohan-portfolio/static/media/eks-manual.b3952daee766e1a7648d2f448e8ed07f.svg",
+    "index.html": "/rohan-portfolio/index.html",
+    "main.92a2b974.css.map": "/rohan-portfolio/static/css/main.92a2b974.css.map",
+    "main.0c97e7bc.js.map": "/rohan-portfolio/static/js/main.0c97e7bc.js.map",
+    "453.32f539da.chunk.js.map": "/rohan-portfolio/static/js/453.32f539da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92a2b974.css",
+    "static/js/main.0c97e7bc.js"
+  ]
+}
